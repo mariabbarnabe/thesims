@@ -1,0 +1,22 @@
+
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(ÆáÕßùÿÿÿÿ
+C
+java:S1604$"(Make this anonymous inner class a lambda(•´Â£ûÿÿÿÿ
+C
+java:S1604+"(Make this anonymous inner class a lambda(²±Óùÿÿÿÿ
+C
+java:S1604K"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+C
+java:S1604T"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+o
+java:S1450^"YRemove the "btnExcluir" field and declare it as a local variable in the relevant methods.(˜÷Ò
+t
+java:S1450_"YRemove the "btnInserir" field and declare it as a local variable in the relevant methods.(”Í“‹ûÿÿÿÿ
+@
+java:S1172I"*Remove this unused method parameter "evt".(¾Ù€—
+M
+java:S1135J"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+@
+java:S1172R"*Remove this unused method parameter "evt".(”©“á
+M
+java:S1135S"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ

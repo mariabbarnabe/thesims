@@ -1,0 +1,25 @@
+
+c
+java:S1871M"HThis case's code block is the same as the block for the case on line 48.(Ä“†ùÿÿÿÿ
+^
+java:S1871U"HThis case's code block is the same as the block for the case on line 48.(½…Ë…
+<	java:S131/""Add a default case to this switch.(ƒ¼¦ôıÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(ªêâó
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(„Çã£ûÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(«çĞÛ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(¯ØÎ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(º‘Æ¦
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(ÿË¿îüÿÿÿÿ
+M	java:S106d"9Replace this use of System.out or System.err by a logger.(ú…Æ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(ÄóÍ¼
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(åá¦£üÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(èÚç¯ùÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+<	java:S131p""Add a default case to this switch.(ƒ¼¦ôıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÍİÿıÿÿÿÿ
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(Ÿîê­ùÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(Òé¶¦
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(òøíÄ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(·èò·şÿÿÿÿ
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(ÛùğÀ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ

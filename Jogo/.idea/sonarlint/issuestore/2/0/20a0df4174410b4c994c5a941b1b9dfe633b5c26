@@ -1,0 +1,26 @@
+
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(’•­èúÿÿÿÿ
+C
+java:S16049"(Make this anonymous inner class a lambda(•´Â£ûÿÿÿÿ
+^
+java:S1128"HRemove this unused import 'br.edu.unifei.cco006.thesims.modelo.Familia'.(×ï
+u
+java:S1450"YRemove the "btnInserir" field and declare it as a local variable in the relevant methods.(”Í“‹ûÿÿÿÿ
+k
+java:S1450"URemove the "cidade" field and declare it as a local variable in the relevant methods.(Øìçî
+q
+java:S1450"URemove the "lblHab" field and declare it as a local variable in the relevant methods.(ê×±Ïúÿÿÿÿ
+m
+java:S1450‘"VRemove the "lblNome" field and declare it as a local variable in the relevant methods.(ú‹ë
+l
+java:S1450’"URemove the "lblTam" field and declare it as a local variable in the relevant methods.(®ıÔ¿
+u
+java:S1450“"YRemove the "panInserir" field and declare it as a local variable in the relevant methods.(êôéàøÿÿÿÿ
+w
+java:S1450”"[Remove the "tabOperacoes" field and declare it as a local variable in the relevant methods.(™ÈáÆøÿÿÿÿ
+:
+java:S1948"$Make "em" transient or serializable.(êµğ
+@
+java:S1172~"*Remove this unused method parameter "evt".(¾Ù€—
+M
+java:S1135"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ

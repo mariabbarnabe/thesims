@@ -1,0 +1,28 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(€Š†
+>
+java:S1604B"(Make this anonymous inner class a lambda(ğ¸£Ÿ
+C
+java:S1604O"(Make this anonymous inner class a lambda(•´Â£ûÿÿÿÿ
+s
+java:S1450"XRemove the "alimentar" field and declare it as a local variable in the relevant methods.(Å«ó‘ùÿÿÿÿ
+u
+java:S1450±"^Remove the "btnBuscarPessoa" field and declare it as a local variable in the relevant methods.(ˆ­…
+u
+java:S1450²"YRemove the "btnInserir" field and declare it as a local variable in the relevant methods.(”Í“‹ûÿÿÿÿ
+r
+java:S1450µ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450¶"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+t
+java:S1450·"XRemove the "lblPessoa" field and declare it as a local variable in the relevant methods.(¾—”ãùÿÿÿÿ
+:
+java:S1948"$Make "em" transient or serializable.(êµğ
+F
+java:S1172‹"*Remove this unused method parameter "evt".(ÄÔ‚‰øÿÿÿÿ
+N
+java:S1135Œ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172’"*Remove this unused method parameter "evt".(¾Ù€—
+N
+java:S1135“"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ

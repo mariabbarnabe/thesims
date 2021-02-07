@@ -1,0 +1,30 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(¦®ß
+C
+java:S1604C"(Make this anonymous inner class a lambda(û¬¡ùÿÿÿÿ
+C
+java:S1604J"(Make this anonymous inner class a lambda(²±Óùÿÿÿÿ
+C
+java:S1604U"(Make this anonymous inner class a lambda(â÷“”úÿÿÿÿ
+u
+java:S1450·"^Remove the "btnBuscarComodo" field and declare it as a local variable in the relevant methods.(ê†©ª
+m
+java:S1450»"VRemove the "lblCasa" field and declare it as a local variable in the relevant methods.(õÄ€œ
+o
+java:S1450¼"XRemove the "lblComodo" field and declare it as a local variable in the relevant methods.(…¸¦ú
+m
+java:S1450½"VRemove the "lblTipo" field and declare it as a local variable in the relevant methods.(•û×©
+:
+java:S1948"$Make "em" transient or serializable.(êµğ
+F
+java:S1172‹"*Remove this unused method parameter "evt".(¦Á¯¼üÿÿÿÿ
+N
+java:S1135Œ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172“"*Remove this unused method parameter "evt".(”©“á
+N
+java:S1135”"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172¢"*Remove this unused method parameter "evt".(ÍšØÊ
+N
+java:S1135£"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ

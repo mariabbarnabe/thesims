@@ -1,0 +1,10 @@
+
+S
+java:S1128"8Remove this unused import 'javax.persistence.ManyToOne'.(ÇÑ²Žøÿÿÿÿ
+M
+java:S1128"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;
+M	java:S106Q"9Replace this use of System.out or System.err by a logger.(™¡¸L
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(ñ¸ì¥
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(öíšé
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(¡ÝèÒøÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(Îðº³ÿÿÿÿÿ

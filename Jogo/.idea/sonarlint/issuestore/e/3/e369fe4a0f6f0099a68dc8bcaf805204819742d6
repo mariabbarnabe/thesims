@@ -1,0 +1,30 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(÷Õß
+C
+java:S1604E"(Make this anonymous inner class a lambda(•´Â£ûÿÿÿÿ
+u
+java:S1450¶"YRemove the "btnInserir" field and declare it as a local variable in the relevant methods.(”Í“‹ûÿÿÿÿ
+n
+java:S1450"SRemove the "casa" field and declare it as a local variable in the relevant methods.(óÀ¹×üÿÿÿÿ
+k
+java:S1450"URemove the "cidade" field and declare it as a local variable in the relevant methods.(Øìçî
+o
+java:S1450¸"XRemove the "lblCidade" field and declare it as a local variable in the relevant methods.(íÅÔÏ
+w
+java:S1450¹"[Remove the "lblCorParede" field and declare it as a local variable in the relevant methods.(î¼Ûäşÿÿÿÿ
+s
+java:S1450º"\Remove the "lblCorTelhado" field and declare it as a local variable in the relevant methods.(¼¤“×
+s
+java:S1450»"WRemove the "lblPreco" field and declare it as a local variable in the relevant methods.(ÑŸéıÿÿÿÿ
+l
+java:S1450¼"URemove the "lblTam" field and declare it as a local variable in the relevant methods.(®ıÔ¿
+u
+java:S1450½"YRemove the "panInserir" field and declare it as a local variable in the relevant methods.(êôéàøÿÿÿÿ
+w
+java:S1450¾"[Remove the "tabOperacoes" field and declare it as a local variable in the relevant methods.(™ÈáÆøÿÿÿÿ
+:
+java:S1948"$Make "em" transient or serializable.(êµğ
+A
+java:S1172œ"*Remove this unused method parameter "evt".(¾Ù€—
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ

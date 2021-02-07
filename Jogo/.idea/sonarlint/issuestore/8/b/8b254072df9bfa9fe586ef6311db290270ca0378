@@ -1,0 +1,68 @@
+
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(œ¹Èşÿÿÿÿ
+C
+java:S1604+"(Make this anonymous inner class a lambda(ğ…èúÿÿÿÿÿ
+>
+java:S16042"(Make this anonymous inner class a lambda(÷ÒÉÚ
+>
+java:S16049"(Make this anonymous inner class a lambda(š¸—’
+>
+java:S1604@"(Make this anonymous inner class a lambda(†Ïı
+>
+java:S1604G"(Make this anonymous inner class a lambda(¡´’Ğ
+C
+java:S1604N"(Make this anonymous inner class a lambda(²±Óùÿÿÿÿ
+D
+java:S1604”"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604¦"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604¯"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604¸"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+D
+java:S1604Á"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+w
+java:S1450Ë"[Remove the "btnAlimentar" field and declare it as a local variable in the relevant methods.(ÒÔ§Èúÿÿÿÿ
+p
+java:S1450Ì"YRemove the "btnExcluir" field and declare it as a local variable in the relevant methods.(˜÷Ò
+s
+java:S1450Í"WRemove the "btnLazer" field and declare it as a local variable in the relevant methods.(¬ª‚ıÿÿÿÿ
+w
+java:S1450Î"[Remove the "btnMovimento" field and declare it as a local variable in the relevant methods.(ê§²¹øÿÿÿÿ
+w
+java:S1450Ï"`Remove the "btnRelacionamento" field and declare it as a local variable in the relevant methods.(Ìû­à
+t
+java:S1450Ğ"XRemove the "btnTarefa" field and declare it as a local variable in the relevant methods.(¯ç­Öøÿÿÿÿ
+q
+java:S1450Ñ"ZRemove the "jSeparator1" field and declare it as a local variable in the relevant methods.(’©ìÉ
+p
+java:S1450Ò"YRemove the "lblExcluir" field and declare it as a local variable in the relevant methods.(Õ±®ô
+u
+java:S1450Ó"YRemove the "lblInserir" field and declare it as a local variable in the relevant methods.(‹±‰Úüÿÿÿÿ
+A
+java:S1172’"*Remove this unused method parameter "evt".(ŞÂëù
+N
+java:S1135“"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172›"*Remove this unused method parameter "evt".(æÁ¤üÿÿÿÿ
+N
+java:S1135œ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172¤"*Remove this unused method parameter "evt".(Á¾ÅÕüÿÿÿÿ
+N
+java:S1135¥"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172­"*Remove this unused method parameter "evt".(ïúª
+N
+java:S1135®"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172¶"*Remove this unused method parameter "evt".(º½İìúÿÿÿÿ
+N
+java:S1135·"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172¿"*Remove this unused method parameter "evt".(”©“á
+N
+java:S1135À"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ

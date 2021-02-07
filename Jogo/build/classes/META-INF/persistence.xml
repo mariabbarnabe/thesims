@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="JogoPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.hibernate.ejb.HibernatePersistence</provider>
+    <class>br.edu.unifei.cco006.thesims.modelo.Acao</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Alimentar</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Casa</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Cidade</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Comodo</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Construcao</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Evento</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Familia</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Habilidade</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Lazer</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Lugar</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Mobilia</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Movimento</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Necessidade</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Objeto</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Pessoa</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Relacionamento</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Tarefa</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Trabalho</class>
+    <class>br.edu.unifei.cco006.thesims.modelo.Vestuario</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/theSims?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.user" value="theSims"/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.password" value="thesims"/>
+      <property name="hibernate.cache.provider_class" value="org.hibernate.cache.NoCacheProvider"/>
+    </properties>
+  </persistence-unit>
+</persistence>

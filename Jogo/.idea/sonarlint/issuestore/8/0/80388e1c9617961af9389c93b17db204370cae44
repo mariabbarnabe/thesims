@@ -1,0 +1,27 @@
+
+7	java:S131^""Add a default case to this switch.(Ú–á­
+7	java:S1311""Add a default case to this switch.(Ú–á­
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(·èò·şÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(„Çã£ûÿÿÿÿ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(Òé¶¦
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(òøíÄ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¯á·’ûÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(º‘Æ¦
+]
+java:S1871?"HThis case's code block is the same as the block for the case on line 54.(Šùt
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(ÛùğÀ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(åá¦£üÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(«çĞÛ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(¯á·’ûÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(¯ØÎ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ªêâó
+M	java:S106M"9Replace this use of System.out or System.err by a logger.(ú…Æ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(Ÿîê­ùÿÿÿÿ
+¢
+java:S2681Y"†This line will not be executed conditionally; only the first line of this 3-line block will be. The rest will execute unconditionally.(Ååà…şÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(ÿË¿îüÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ÄóÍ¼
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(èÚç¯ùÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(ÎÍİÿıÿÿÿÿ
